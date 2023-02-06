@@ -2,7 +2,7 @@ bird(sparrow).
 bird(eagle).
 bird(duck).
 bird(crow).
-~bird(ostrich).
+bird(ostrich).
 bird(puffin).
 bird(swan).
 bird(albatross).
